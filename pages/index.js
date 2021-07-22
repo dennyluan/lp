@@ -6,7 +6,7 @@ export default function Home() {
   return (
     <div className={styles.container}>
       <Head>
-        <title>cumtown for alcoholics</title>
+        <title>car talk for alternative dieting plans</title>
         <meta name="description" content="dont listen to this" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
